@@ -1,4 +1,4 @@
-# BiteFinder
+# Dine
 Personal contributions to a collaborative budget search application:
 
 - `getCombos.py` performs an iterative search through possible food item combinations given user-defined preferences and budget constraints
